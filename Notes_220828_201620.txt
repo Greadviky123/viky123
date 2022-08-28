@@ -1,0 +1,1 @@
+https://nexus-sg43.ppgames.net/gs2c/html5Game.do?jackpotid=0&gname=Gates%20of%20Olympus&extGame=1&ext=0&cb_target=exist_tab&symbol=vs20olympgate&jurisdictionID=99&lobbyUrl=js://window.close();&minilobby=false&mgckey=AUTHTOKEN@f50b7e040470da0c39e8ce4a658267bb9bc1ecd7b8fd7da3097c452cf103f6b6~stylename@win889_win88bt9~SESSION@44963ea2-74fd-400a-a26c-6ab5298fc171~SN@dd3ebd94&tabName=
